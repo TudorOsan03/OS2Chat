@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OSChat.dir/main.cpp.o CMakeFiles/OSChat.dir/chat_log.cpp.o -o OSChat

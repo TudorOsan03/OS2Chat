@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/tudorosan/OS2Chat/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/ServerChat.dir/main.cpp.o -c /home/tudorosan/OS2Chat/main.cpp",
+  "file": "/home/tudorosan/OS2Chat/main.cpp",
+  "output": "CMakeFiles/ServerChat.dir/main.cpp.o"
+},
+{
+  "directory": "/home/tudorosan/OS2Chat/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/ServerChat.dir/chat_log.cpp.o -c /home/tudorosan/OS2Chat/chat_log.cpp",
+  "file": "/home/tudorosan/OS2Chat/chat_log.cpp",
+  "output": "CMakeFiles/ServerChat.dir/chat_log.cpp.o"
+},
+{
+  "directory": "/home/tudorosan/OS2Chat/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/ChatClient.dir/client.cpp.o -c /home/tudorosan/OS2Chat/client.cpp",
+  "file": "/home/tudorosan/OS2Chat/client.cpp",
+  "output": "CMakeFiles/ChatClient.dir/client.cpp.o"
+}
+]

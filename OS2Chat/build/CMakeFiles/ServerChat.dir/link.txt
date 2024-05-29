@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ServerChat.dir/main.cpp.o CMakeFiles/ServerChat.dir/chat_log.cpp.o -o ServerChat

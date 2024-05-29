@@ -1,0 +1,4 @@
+/home/tudorosan/OS2Chat/build/CMakeFiles/ServerChat.dir
+/home/tudorosan/OS2Chat/build/CMakeFiles/ChatClient.dir
+/home/tudorosan/OS2Chat/build/CMakeFiles/edit_cache.dir
+/home/tudorosan/OS2Chat/build/CMakeFiles/rebuild_cache.dir
